@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-03whyj.pulaucuan.online/sitemap.xml
